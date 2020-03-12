@@ -12,3 +12,4 @@ end
 
 fido = Dog.new
 fido.name = "Tara"
+fido.name
